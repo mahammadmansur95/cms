@@ -9,14 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.1.4",
+    "@next/font": "^13.4.12",
     "@types/node": "20.4.5",
     "@types/react": "18.2.18",
     "@types/react-dom": "18.2.7",
+    "antd": "^5.8.0",
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.12",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "netlify-cms-app": "^2.15.72",
     "next": "13.4.12",
+    "next-sitemap": "^4.1.8",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-markdown": "^8.0.7",
+    "sass": "^1.64.2",
     "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.196"
   }
 }
