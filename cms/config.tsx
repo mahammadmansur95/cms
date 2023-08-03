@@ -4,6 +4,7 @@ const config = {
   cms_manual_init: true,
   backend: {
     name: "github",
+    repo: "mansur/cms",
     branch: "master",
   },
   media_folder: "public/images",
